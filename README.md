@@ -1,2 +1,2 @@
 # Data-Science
-data science notes and exercises.
+Data science notes and exercises.
